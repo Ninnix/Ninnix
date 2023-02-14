@@ -1,5 +1,5 @@
-# 💫 About Me:
-🧑🏻‍💻 I am currently working on a Scraper<br>🌱 I am currently learning Rust<br>⚡I am currently thinking something fun to add here
+# Ciao, I'm Nicoló![image](https://user-images.githubusercontent.com/17431835/218610618-aa357f8b-ec88-4f36-b402-b28335d0af4b.png):
+🧑🏻‍💻 I am currently working on with Python and Scala<br>🌱 I am currently learning Rust<br>⚡I am currently thinking something fun to add here
 
 
 ## 🌐 Socials:
